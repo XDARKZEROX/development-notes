@@ -11,4 +11,10 @@ para Linux (probado en Arch y Mint)/Ubuntu
 para MacOs
  1. nano ~/.bash_profile
  2. export PATH="~/.composer/vendor/bin:$PATH"
+ 
+ Links de interes:
+ https://www.ostechnix.com/install-nginx-mariadb-php-lemp-stack-on-arch-linux-2016/
+ https://www.nginx.com/resources/wiki/start/
+ https://wiki.archlinux.org/index.php/nginx
+https://laravel.com/docs/5.8/deployment
 
